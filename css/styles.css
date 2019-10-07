@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.myBackground {
+	background: orange;
+}
+
+
+.logo {
+	margin: 20px 420px; 
+}
+
+.img {
+	width: 440px;
+}
+
+p {
+	font-family: Lobster;
+}
+
+.col-5 {
+	left: 100px;
+}
+
+.btn-primary {
+	margin: 15px;
+}
+
+.card {
+	margin: 20px;
+	left: 23%;
+}
+
+.card-groups {
+	display: flex;
+}
+
+
+
+
+
